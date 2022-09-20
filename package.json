@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "knex": "^2.1.0",
+    "sqlite3": "^5.0.8",
+    "pg": "^8.7.1",
+    "superagent": "7.1.1"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  }
+}
